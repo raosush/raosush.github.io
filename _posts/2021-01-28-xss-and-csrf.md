@@ -4,7 +4,9 @@ title:  "XSS & CSRF"
 date:   2021-01-28 10:00:04 +0530
 tags: owasp-top-10 web-security rails node-js xss csrf
 author: 'Sushanth Sathesh Rao'
-asset_img: 'assets/img/xss_and_csrf/xss_and_csrf.png'
+excerpt: 'Introduction to XSS & CSRF'
+type: 'web-security'
+asset_img: '/assets/img/xss_and_csrf/xss_and_csrf.png'
 ---
 
 <img src="/assets/img/xss_and_csrf/xss_and_csrf.png">

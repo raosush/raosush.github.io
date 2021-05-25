@@ -207,6 +207,13 @@
   @include relative-font-size(1.5);
 }
 
+.post-type {
+  display: block;
+  @include relative-font-size(1);
+  color: green;
+  padding-bottom: 5px;
+}
+
 
 
 /**

@@ -1,6 +1,6 @@
 title: Timeline Treasures
 email: rao.sush004@gmail.com
-description: My own personal website for blogging
+description: A personal blogging website made by me, Sushanth. Here, I will blog about my learning experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raosush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  raosush
@@ -9,6 +9,7 @@ instagram_username: sushanth_3
 google_analytics: UA-197848928-2
 
 # Build settings
+show_excerpts: true
 markdown: kramdown
 theme: minima
 plugins:
