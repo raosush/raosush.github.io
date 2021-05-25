@@ -1,0 +1,25 @@
+title: Timeline Treasures
+email: rao.sush004@gmail.com
+description: My own personal website for blogging
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://raosush.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  raosush
+linkedin_username: sushanth-rao-998578132
+instagram_username: sushanth_3
+google_analytics: UA-197848928-2
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+date_format: '%b %-d, %Y'
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

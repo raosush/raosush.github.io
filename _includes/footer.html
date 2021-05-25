@@ -1,0 +1,15 @@
+<footer class="card-footer">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <div class="wrapper">
+    <div class="row" style="justify-content: center;">
+      <div class="col-sm-3 col-md-3 col-xs-3">
+        <h4>{{ site.title | escape }}</h4>
+        <p>{{- site.description | escape -}}</p>
+      </div>
+      <div class="col-sm-3 col-md-3 col-xs-3">
+        <h5>Contact Me</h5>
+        {%- include social.html -%}
+      </div>
+    </div>
+  </div>
+</footer>
