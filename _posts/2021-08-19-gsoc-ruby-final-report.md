@@ -68,11 +68,11 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
 
 ### Part 02 - Improving RBS Toolchain
 * Worked on generating nested declarations while prototyping RBS from Ruby runtime APIs. This was a significant improvement since compact declarations had a few downsides.
-  * ![]('/assets/img/gsoc_ruby_final_report/nested_runtime_prototype.png')
+  * ![](/assets/img/gsoc_ruby_final_report/nested_runtime_prototype.png)
 * Worked on adding validations for recursive type aliases. This was a good feature that also helped me to gain a lot more understanding of RBS codebase, good coding conventions & data structures.
-  * ![]('/assets/img/gsoc_ruby_final_report/recursive_type_alias_valiidation.png')
+  * ![](/assets/img/gsoc_ruby_final_report/recursive_type_alias_validation.png)
 * Worked on generating RBS from JSON Schema documents. This was a great feature to work on as it helped me learn a lot about JSON schema & it's usecases. JSON Schema documents are far more expressive & extensible than RBS and is used for a variety of applications. Hence, support for translating types from JSON schema makes RBS even better.
-  * ![]('/assets/img/gsoc_ruby_final_report/rbs_json_schema.png')
+  * ![](/assets/img/gsoc_ruby_final_report/rbs_json_schema.png)
 
 ## Learning Outcomes
 
