@@ -36,13 +36,6 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
   * Based on my capabilities & understanding of RBS codebase, I would be working on a variety of issues which would include bug fixes, features & enhancements.
 
 ## Work
-|---
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
-| First body part | Second cell | Third cell | fourth cell
-| Second line |foo | **strong** | baz
-| Third line |quux | baz | bar
-|---
 
 
 |---
