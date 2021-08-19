@@ -37,6 +37,15 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
 
 ## Work
 |---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
+| Third line |quux | baz | bar
+|---
+
+
+|---
 | Pull Request | Description | Status
 |:-:|:-:|:-:
 | [RBS for chunky_png gem](https://github.com/ruby/gem_rbs_collection/pull/22)     | Provides RBS writeup of [Chunky PNG](https://github.com/wvanbergen/chunky_png) gem, v1.4.0     | Merged
@@ -48,7 +57,7 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
 | [Removed documentation about runtime testing](https://github.com/ruby/gem_rbs_collection/pull/41) | Remove inconsistent documentation about support for `runtime test` in RBS | Merged
 | [Add Recusrive type alias validation](https://github.com/ruby/rbs/pull/719) | Added validation for detecting & pointing out recursive type alias definitions | Merged
 | [Generate included modules with complete name](https://github.com/ruby/rbs/pull/731) | Generates complete name for included/prepended/extended modules, i.e, with their namespace | Merged
-| [Generate RBS from JSON Schema](https://github.com/ruby/rbs/pull/730) | Generates RBS type definitions from a JSON Schema | Merged
+| [Generate RBS from JSON Schema](https://github.com/ruby/rbs/pull/730) | Generates RBS type definitions from a JSON Schema | Approved
 |---
 
 ### Repositories
