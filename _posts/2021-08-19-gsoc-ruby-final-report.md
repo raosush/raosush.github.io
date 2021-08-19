@@ -36,18 +36,20 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
   * Based on my capabilities & understanding of RBS codebase, I would be working on a variety of issues which would include bug fixes, features & enhancements.
 
 ## Work
-| Pull Request                                                                                      | Description                                                            | Status   |
-|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|----------|
-| [RBS for chunky_png gem](https://github.com/ruby/gem_rbs_collection/pull/22)                      | Provides RBS writeup of [Chunky PNG](https://github.com/wvanbergen/chunky_png) gem, v1.4.0     | Merged   |
-| [RBS for net-http gem](https://github.com/ruby/rbs/pull/686)                                      | Provided RBS writeup of [Net::HTTP](https://github.com/ruby/net-http) gem, v0                  | Merged   |
-| [RBS for HTTParty gem](https://github.com/ruby/gem_rbs_collection/pull/31)                        | Provided RBS writeup of [HTTParty](https://github.com/jnunemaker/httparty) gem, v0.18.1        | Merged   |
-| [RBS for sidekiq](https://github.com/ruby/gem_rbs_collection/pull/34)                             | Provided RBS writeup of [Sidekiq](https://github.com/mperham/sidekiq) gem, v6.2                | Merged   |
-| [Generate nested declarations](https://github.com/ruby/rbs/pull/700)                              | Supports generation of nested declarations while prototyping RBS from Ruby runtime APIs       | Merged   |
-| [Remove documentation about `super`](https://github.com/ruby/rbs/pull/716)                        | Removed inconsistent documentation about `super` type                                       | Merged   |
-| [Removed documentation about runtime testing](https://github.com/ruby/gem_rbs_collection/pull/41) | Remove inconsistent documentation about support for `runtime test` in RBS                  | Merged   |
-| [Add Recusrive type alias validation](https://github.com/ruby/rbs/pull/719)                       | Added validation for detecting & pointing out recursive type alias definitions              | Merged   |
-| [Generate included modules with complete name](https://github.com/ruby/rbs/pull/731)              | Generates complete name for included/prepended/extended modules, i.e, with their namespace         | Merged   |
-| [Generate RBS from JSON Schema](https://github.com/ruby/rbs/pull/730)                             | Generates RBS type definitions from a JSON Schema                                         | Approved |
+|---
+| Pull Request | Description | Status |
+|:-:|:-:|:-:|
+| [RBS for chunky_png gem](https://github.com/ruby/gem_rbs_collection/pull/22)     | Provides RBS writeup of [Chunky PNG](https://github.com/wvanbergen/chunky_png) gem, v1.4.0     | Merged     |
+| [RBS for net-http gem](https://github.com/ruby/rbs/pull/686) | Provided RBS writeup of [Net::HTTP](https://github.com/ruby/net-http) gem, v0 | Merged |
+| [RBS for HTTParty gem](https://github.com/ruby/gem_rbs_collection/pull/31) | Provided RBS writeup of [HTTParty](https://github.com/jnunemaker/httparty) gem, v0.18.1 | Merged |
+| [RBS for sidekiq](https://github.com/ruby/gem_rbs_collection/pull/34) | Provided RBS writeup of [Sidekiq](https://github.com/mperham/sidekiq) gem, v6.2 | Merged |
+| [Generate nested declarations](https://github.com/ruby/rbs/pull/700) | Supports generation of nested declarations while prototyping RBS from Ruby runtime APIs | Merged |
+| [Remove documentation about `super`](https://github.com/ruby/rbs/pull/716) | Removed inconsistent documentation about `super` type | Merged |
+| [Removed documentation about runtime testing](https://github.com/ruby/gem_rbs_collection/pull/41) | Remove inconsistent documentation about support for `runtime test` in RBS | Merged |
+| [Add Recusrive type alias validation](https://github.com/ruby/rbs/pull/719) | Added validation for detecting & pointing out recursive type alias definitions | Merged |
+| [Generate included modules with complete name](https://github.com/ruby/rbs/pull/731) | Generates complete name for included/prepended/extended modules, i.e, with their namespace | Merged |
+| [Generate RBS from JSON Schema](https://github.com/ruby/rbs/pull/730) | Generates RBS type definitions from a JSON Schema | Merged |
+|---
 
 ### Repositories
 
