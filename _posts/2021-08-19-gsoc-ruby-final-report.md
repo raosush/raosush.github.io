@@ -37,7 +37,7 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
 
 ## Work
 | Pull Request | Description | Status |
-| -------- | -------- | -------- |
+| ---+---+--- | ---+---+--- | ---+---+--- |
 | [RBS for chunky_png gem](https://github.com/ruby/gem_rbs_collection/pull/22)     | Provides RBS writeup of [Chunky PNG](https://github.com/wvanbergen/chunky_png) gem, v1.4.0     | Merged     |
 | [RBS for net-http gem](https://github.com/ruby/rbs/pull/686) | Provided RBS writeup of [Net::HTTP](https://github.com/ruby/net-http) gem, v0 | Merged |
 | [RBS for HTTParty gem](https://github.com/ruby/gem_rbs_collection/pull/31) | Provided RBS writeup of [HTTParty](https://github.com/jnunemaker/httparty) gem, v0.18.1 | Merged |
@@ -48,6 +48,7 @@ My GSoC [project](https://summerofcode.withgoogle.com/projects/#5569460552859648
 | [Add Recusrive type alias validation](https://github.com/ruby/rbs/pull/719) | Added validation for detecting & pointing out recursive type alias definitions | Merged |
 | [Generate included modules with complete name](https://github.com/ruby/rbs/pull/731) | Generates complete name for included/prepended/extended modules, i.e, with their namespace | Merged |
 | [Generate RBS from JSON Schema](https://github.com/ruby/rbs/pull/730) | Generates RBS type definitions from a JSON Schema | Approved |
+| ====+==== | ====+==== | ====+==== |
 
 ### Repositories
 
