@@ -8,7 +8,6 @@ excerpt: Final report regarding my work completed while working on a project wit
 tags: gsoc rbs ruby
 asset_img: '/assets/img/gsoc_ruby_final_report/main.png'
 ---
-# Ruby - GSoC '21 Final Report
 
 ## Background
 [RBS](https://github.com/ruby/rbs) is a newly developed syntax language for describing structure of Ruby programs, released with **Ruby 3.0.0**. RBS is a very useful addition to implement __static__/__runtime__ type checking for Ruby, which is a dynamically typed language.
