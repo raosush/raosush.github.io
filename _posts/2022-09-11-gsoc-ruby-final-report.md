@@ -4,7 +4,7 @@ description: Final report regarding my work completed while working on a project
 date: 2022-09-11 10:54:04 +0530
 author: 'Sushanth Sathesh Rao'
 type: 'Work Product Submission'
-excerpt: Final report regarding my work completed while working on a project with Ruby during the period of GSoC '21
+excerpt: Final report regarding my work completed while working on a project with Ruby during the period of GSoC '22
 tags: gsoc rbs ruby
 asset_img: '/assets/img/gsoc_ruby_final_report/main.png'
 ---
