@@ -35,11 +35,13 @@ My GSoC [project](https://summerofcode.withgoogle.com/programs/2022/projects/1wS
   * After having gained sufficient exposure & knowledge with RDoc, I would then start working on supporting RBS specific data structures such as Interfaces, Type Aliases, Generics, etc.
 
 ## Work
-| Pull Request | Description | Status |
-| -------- | -------- | -------- |
-| [RDoc Plugin for RBS](https://github.com/ruby/rbs/pull/1048)     | RDoc Plugin for generating documentation from RBS source code     | Merged     |
-| [Support RBS generics in RDoc](https://github.com/ruby/rdoc/pull/925) | Add support in RDoc for RBS specific data structure, type parameters(generics) | In Review |
-| [Enhance RDoc plugin for RBS with generics](https://github.com/ruby/rbs/pull/1105) | Update RDoc plugin for RBS to support type parameters(generics) | In Review |
+|---
+| Pull Request | Description | Status
+|:-:|:-:|:-:
+| [RDoc Plugin for RBS](https://github.com/ruby/rbs/pull/1048)     | RDoc Plugin for generating documentation from RBS source code     | Merged
+| [Support RBS generics in RDoc](https://github.com/ruby/rdoc/pull/925) | Add support in RDoc for RBS specific data structure, type parameters(generics) | In Review
+| [Enhance RDoc plugin for RBS with generics](https://github.com/ruby/rbs/pull/1105) | Update RDoc plugin for RBS to support type parameters(generics) | In Review
+|---
 
 ### Repositories
 
