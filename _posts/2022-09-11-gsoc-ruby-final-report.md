@@ -35,6 +35,8 @@ My GSoC [project](https://summerofcode.withgoogle.com/programs/2022/projects/1wS
   * After having gained sufficient exposure & knowledge with RDoc, I would then start working on supporting RBS specific data structures such as Interfaces, Type Aliases, Generics, etc.
 
 ## Work
+
+
 |---
 | Pull Request | Description | Status
 |:-:|:-:|:-:
